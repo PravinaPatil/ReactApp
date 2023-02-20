@@ -1,0 +1,32 @@
+div.HeaderContent{
+    background-color: #c0e6c2;
+      width: 100%;
+      height: 70px;
+  }
+  button {
+      background-color: #04AA6D;
+      border: none;
+      color: rgb(1, 1, 1);
+      padding: 20px;
+      float: right;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      border-radius: 12px;
+    }
+    div.SectionContent{
+     /*background-image: url("../../img/Employee-Self-Service-Portal.webp");*/
+        width: 100%;
+        height: 600px;
+        text-align: center;
+        font-family: Arial;
+        padding-top: 10px;
+    }
+    div.FooterContent{
+      background-color: #dab6ec;
+        width: 100%;
+        height:20px;
+        text-align: center;
+      
+    }

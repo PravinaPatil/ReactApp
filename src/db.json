@@ -1,0 +1,25 @@
+{
+    "EmployeeDetails":[ 
+       {
+       "id": 780134,
+       "Name": "Pravina",
+       "Qualification": "BE(Computer Science & Engg)"   
+       },
+       {
+          "id": 784532,
+          "Name": "Rohit",
+          "Qualification": "BTech(Computer Science & Engg)"   
+          },
+          {
+             "id": 672822,
+             "Name": "Ritesh",
+             "Qualification": "BE(Computer Science & Engg)"   
+          },
+          {
+             "id": 877382,
+             "Name": "sanchit",
+             "Qualification": "BCA(Computer Science & Engg)"   
+          }
+          
+     ]
+ }
